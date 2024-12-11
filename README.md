@@ -12,7 +12,7 @@ In order to succeed in the field and in my skills, I continue to prepare myself 
 <br />
 <h2></h2>
 
-[![Hallan's status](https://github-readme-stats.vercel.app/api?username=hallanoliveira)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hallanoliveira&show_icons=true&theme=transparent)
 
 <h2></h2>
 
