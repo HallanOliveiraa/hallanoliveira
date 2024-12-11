@@ -21,8 +21,8 @@ In order to succeed in the field and in my skills, I continue to prepare myself 
 
 <h2></h2>
 
-<a href="https://www.instagram.com/hallanolliveira/"><img width="45" height="45" src="https://img.icons8.com/glyph-neue/64/instagram-new--v1.png" alt="logo instagram"></a> 
-<a href="https://www.facebook.com/hallan.p.oliveira"><img width="45" height="45" src="https://img.icons8.com/ios-glyphs/facebook.png"></a>
+<a href="https://www.instagram.com/hallanolliveira/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/instagram-new--v1.png" alt="instagram-new--v1"/></a> 
+<a href="https://www.facebook.com/hallan.p.oliveira"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/facebook--v1.png" alt="facebook--v1"/></a>
 <a href=""><img width="200" height="50" src="https://rodolfomori.com.br/wp-content/uploads/2023/05/logo.png" alt="logo do curso DevClub"></a>
 
 
