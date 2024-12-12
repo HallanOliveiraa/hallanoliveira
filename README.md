@@ -23,7 +23,7 @@ In order to succeed in the field and in my skills, I continue to prepare myself 
 
 <a href="https://www.instagram.com/hallanolliveira/"><img width="35" height="35" src="https://img.icons8.com/ios-filled/50/FFFFFF/instagram-new--v1.png" alt="instagram-new--v1"/></a> 
 <a href="https://www.facebook.com/hallan.p.oliveira"><img width="35" height="35" src="https://img.icons8.com/ios-filled/50/FFFFFF/facebook--v1.png" alt="facebook--v1"/></a>
-<a href=""><img width="200" height="50" src="https://rodolfomori.com.br/wp-content/uploads/2023/05/logo.png" alt="logo do curso DevClub"></a>
+<a href=""><img width="140" height="35" src="https://rodolfomori.com.br/wp-content/uploads/2023/05/logo.png" alt="logo do curso DevClub"></a>
 
 
 
